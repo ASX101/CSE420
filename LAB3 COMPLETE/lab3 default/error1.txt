@@ -1,0 +1,24 @@
+At line :24 Multiple declaration of function z
+
+At line :38 Variable type cannot be void
+
+At line :39 Multiple declaration of variable a
+
+At line :39 Multiple declaration of variable c
+
+At line :44 variable is of array type : c
+
+At line :47 Undeclared variable: k
+
+At line :48 variable is not of array type : b
+
+At line :55 Modulus by 0
+
+At line :56 Modulus operator on non integer type
+
+At line :58 Undeclared function: foo5
+
+At line :60 Undeclared variable: h
+
+
+Total errors: 11
